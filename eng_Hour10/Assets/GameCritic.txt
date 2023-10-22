@@ -1,0 +1,9 @@
+Improving the Game:
+
+-In ways, this game is both too easy and too hard- it is too easy in that if the player doesn't move, the game will eventually solve itself. It is too difficult in that the movement/ability to guide the balls in non-existent and can cause frustration
+
+-I would make it easier by manipulating the bumper shape into some sort of scoop so you can guide the balls a bit better. I would also consider increasing the player movement speed. I would increase the difficulty by making plyer movement a requisite. You can't beat the game if you haven't moved/ the player's movement starts the movement of the color balls which is instrumental for completing the game over conditions.
+
+-Flashier visuals, audio, and introducing the third dimension would increase the "wow" factor of this game.
+
+- I think the concept is fun, simply in two dimensions is very tedious.
