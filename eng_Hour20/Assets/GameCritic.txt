@@ -1,0 +1,35 @@
+1)
+I would say the game is on the easier side
+-You simply move left and right and while yes, you can "phase out" this doesn't change the fact that you just move left and right.
+
+-The obstacles and powerups add some variety to the game, but they are all coming at you at the same speed, it's rather easy to avoid the obstacles and to catch the powerups
+
+-The objective is also, very simple. Simply keep running. You aren't trying to collect points or achieve any other goals, making it a little boring.
+
+2)
+-I would change the speed of the obstacles and powerups. Randomly making some obstacles fast, some slow, and same with the powerups. That way, you would have to think a little harder to avoid obstacles and think a little more critically if it's worth it to get one powerup over another and increase the difficulty of the game
+
+-Being able to move forward and backward to a certain degree would add some more spice for the brain. It would be like that one mario party game-money belts. Being able to move forward and backward would make you think you're able to get more powerups rather than having to choose one, thus increasing the difficulty of the game
+
+-Adding different movement speeds, walk vs run, could make the game easier and more fun. Right now, the run seems a little slow and clumsy.
+
+3)
+-To add wow factor, I would add some variety to the obstacles and powerups. If we want to keep it simple, I would add a material randomizer- making obstacles different colored would be more interesting. It we wanted to get a little more complex, we could randomize the meshes. Some obstacles are boxes, while others are pipes for example.
+
+-Changing the speed at which the obstacles and powerups come at you would definitely increase the wow factor. Even as an amateur, I can tell that if I, the obstacles, and the powerups, are all moving at the same speeds, this isn't a very complex game.
+
+-Changing the background of the game would additionally add a wow factor! If the sky changed weather or time of day based on how long you're playing, that would incentivize the player to play longer in order to see what the next sky would be like.
+
+4)
+-Being able to phase through objects is fun. Usually witht these games, you're able to jump, so phasing adds a bit of variety.
+
+-The setting of the game is fun. The red bars of the walls look like a space prison.
+
+-The overall powerups are fun. I like how the sparkle.
+
+5)
+-The fact that you can't do anything other than move left and right makes the game tedious. The limited movement makes the player bored very quickly
+
+-The lack of secondary objectives adds to the tedium. I'm just running to run.
+
+-The setting is also tedious. I know I said that the setting is fun as a concept, but an unchanging space prison is rather boring and there's only so long I want to run if I don't see any change in scenery.
